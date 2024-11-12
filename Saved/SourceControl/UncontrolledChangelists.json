@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/BP_Projectile.uasset",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/StarterContent/Maps/Warehouse.umap",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/Warehouse.umap",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"/Users/snow-in-fluv/Documents/Unreal Projects/GameDevProject1/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
